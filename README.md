@@ -1,5 +1,5 @@
 # MPV - Pesquisa com Usuários 
-Este é o repositório do MVP (Minimum Viable Product) da disciplina de UX da Pós-Graduação da PUC-Rio.
+Este é o repositório do MVP (Minimum Viable Product) da disciplina de Pesquisa com Usuários da Pós-Graduação de UX da PUC-Rio.
 
 ## Sobre o Projeto
 
